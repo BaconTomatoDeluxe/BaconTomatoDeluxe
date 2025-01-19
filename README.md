@@ -2,11 +2,11 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qpaqpleqp)](https://solved.ac/qpaqpleqp)
 
-<h4>🔭 Currently Working</h2>
+<h2>🔭 Currently Working</h2>
 
 - <a href="https://info.korea.ac.kr/info/index.do" target="_blank">Computer Scient & Engineering</a> @ Korea.Univ (2022.03 ~ )
 
-<h4>🌱 Currently Learning</h2>
+<h2>🌱 Currently Learning</h2>
 
 - Languages: JavaScript/TypeScript, Rust
 
@@ -16,22 +16,21 @@
 
 <br />
 
-<h4>📞 Contact</h2>
+<h2>📞 Contact</h2>
 <p>
   <a href="[https://www.instagram.com/real.rising.sun_02]" target="_blank"><img src="https://img.shields.io/badge/insta-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a> 
   <a href="mailto:qpaqpleqp@korea.ac.kr" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a> 
 </p>
 
-<h4>📖 Languages </h2>
+<h2>📖 Languages </h2>
 <p>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
 </p>
 
-<h4>🔨 Tools</h2>
+<h2>🔨 Tools</h2>
 <p>
   <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/>
