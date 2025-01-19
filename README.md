@@ -4,7 +4,7 @@
 
 <h2>🔭 Currently Working</h2>
 
-- <a href="https://info.korea.ac.kr/info/index.do" target="_blank">Computer Scient & Engineering</a> @ Korea.Univ (2022.03 ~ )
+- <a href="https://info.korea.ac.kr/info/index.do" target="_blank">Computer Science & Engineering</a> @ Korea.Univ (2022.03 ~ )
 
 <h2>🌱 Currently Learning</h2>
 
@@ -12,7 +12,7 @@
 
 - Frameworks: Next.js, Nest.js
 
-- Topics: Operating System, System Software
+- Topics: Operating System, System Software 
 
 <br />
 
