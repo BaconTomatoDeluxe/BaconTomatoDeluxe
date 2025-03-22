@@ -10,7 +10,7 @@
 
 - Languages: Python, JavaScript/TypeScript, C, Rust
 
-- Frameworks: Next.js, Nest.js
+- Frameworks: Next.js
 
 - Topics: ML/AI, LLM, System Software 
 
