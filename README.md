@@ -8,11 +8,11 @@
 
 <h2>🌱 Currently Learning</h2>
 
-- Languages: JavaScript/TypeScript, Rust
+- Languages: Python, JavaScript/TypeScript, C, Rust
 
 - Frameworks: Next.js, Nest.js
 
-- Topics: Operating System, System Software 
+- Topics: ML/AI, LLM, System Software 
 
 <br />
 
